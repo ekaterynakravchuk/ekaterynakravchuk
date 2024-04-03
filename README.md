@@ -17,8 +17,6 @@
   <img width='10'/>
   <img src="https://cdn.simpleicons.org/nextdotjs/8DD6F9" height="40" alt="nextdotjs logo"  />
   <img width='10'/>
-  <img src="https://cdn.simpleicons.org/npm/8DD6F9" height="40" alt="npm logo"  />
-  <img width='10'/>
   <img src="https://cdn.simpleicons.org/bootstrap/8DD6F9" height="40" alt="bootstrap logo"  />
   <img width='10'/>
   <img src="https://cdn.simpleicons.org/tailwindcss/8DD6F9" height="40" alt="tailwindcss logo"  />
