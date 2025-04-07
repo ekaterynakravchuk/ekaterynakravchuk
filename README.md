@@ -1,4 +1,4 @@
-### Junior front-end developer flowing and exploring web space 
+### Front-end developer flowing and exploring web space 
 <hr>
 
 ### My stack
